@@ -9,4 +9,5 @@ import java.util.Properties;
  */
 public class Person {
     private int height;
+    private String name;
 }
