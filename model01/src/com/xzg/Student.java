@@ -11,5 +11,6 @@ public class Student {
     private String sex;
     private double height;
     private double weight;
+    private  int sums;
 
 }
